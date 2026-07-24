@@ -1,0 +1,12 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "TextEditor",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "TextEditor",
+  "start_url": "/https://f4rdinx.github.io/My-apps/",
+  "theme_color": "#ffffff",
+  "id": "TextEditor"
+}
