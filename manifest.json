@@ -4,21 +4,21 @@
   "display": "standalone",
   "name": "TextEditor",
   "orientation": "any",
-  "scope": "/",
+  "scope": "/My-apps/",
   "short_name": "TextEditor",
-  "start_url": "/https://f4rdinx.github.io/My-apps/",
+  "start_url": "/My-apps/",
   "theme_color": "#ffffff",
-  "id": "TextEditor"
+  "id": "TextEditor",
   "icons": [
-  {
-    "src": "icon-192.png",
-    "sizes": "192x192",
-    "type": "image/png"
-  },
-  {
-    "src": "icon-512.png",
-    "sizes": "512x512",
-    "type": "image/png"
-  }
-]
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
 }
